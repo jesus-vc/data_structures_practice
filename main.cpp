@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  practice_structs
+//  data_structures_test
 //
 //  Created by Jesus Vasquez-Cipriano on 4/26/21.
 //  Copyright © 2021 Jesus Vasquez-Cipriano. All rights reserved.
@@ -8,10 +8,9 @@
 
 #include <iostream>
 
-//We created a data structure here.
-//items in structs are public, unless in private.
-//Structs used to contain data variables of a particular data type. Not usually for methods.
-//To use methods, better to use Class
+//Testing structs. Items in structs are public, unless in private.
+//Testing classes next for methods.
+
 struct Ciprianos
 {
     //let's add a method:
@@ -32,7 +31,7 @@ int main(int argc, const char * argv[])
 {
     //we create an instance/object that uses the Jesus template.
     Ciprianos u1;
-    u1.first = "Jason";
+    u1.first = "Jules";
     u1.last = "Cipriano";
     u1.city = "San Jose";
     

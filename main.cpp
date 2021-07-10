@@ -5,11 +5,11 @@
 //  Created by Jesus Vasquez-Cipriano on 4/26/21.
 //  Copyright © 2021 Jesus Vasquez-Cipriano. All rights reserved.
 //
+//Description: Testing structs. Items in structs are public, unless in private.
+
+//Testing classes next for methods.
 
 #include <iostream>
-
-//Testing structs. Items in structs are public, unless in private.
-//Testing classes next for methods.
 
 struct Ciprianos
 {
